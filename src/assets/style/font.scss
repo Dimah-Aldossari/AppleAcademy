@@ -1,0 +1,67 @@
+@font-face {
+  font-family: 'DINNEXTLTARABIC-Black';
+  src: url('/assets/fonts/DIN-BLACK.TTF') format('truetype');
+}
+
+@font-face {
+  font-family: 'DINNEXTLTARABIC-Regular';
+  src: url('/assets/fonts/DINNEXTLTARABIC-REGULAR.TTF') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'DINNEXTLTARABIC-Bold';
+  src: url('/assets/fonts/DINNEXTLTARABIC-BOLD.TTF') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'DINNEXTLTARABIC-Light';
+  src: url('/assets/fonts/DINNEXTLTARABIC-LIGHT.TTF') format('truetype');
+  font-weight: lighter;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'IBMPlexSansArabic-Regular';
+  src: url('/assets/fonts/IBMPlexSansArabic-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'IBMPlexSansArabic-Bold';
+  src: url('/assets/fonts/IBMPlexSansArabic-Bold.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'IBMPlexSansArabic-SemiBold';
+  src: url('/assets/fonts/IBMPlexSansArabic-SemiBold.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'IBMPlexSansArabic-Light';
+  src: url('/assets/fonts/IBMPlexSansArabic-Light.ttf') format('truetype');
+  font-weight: lighter;
+  font-style: normal;
+  font-display: swap;
+}
+
+$ibm-bold-font: 'IBMPlexSansArabic-Bold';
+$ibm-SemiBold-font: 'IBMPlexSansArabic-SemiBold';
+$ibm-regular-font: 'IBMPlexSansArabic-Regular';
+$ibm-light-font: 'IBMPlexSansArabic-Light';
+
+$bold-font: 'DINNEXTLTARABIC-Bold';
+$regular-font: 'DINNEXTLTARABIC-Regular';
+$light-font: 'DINNEXTLTARABIC-Light';

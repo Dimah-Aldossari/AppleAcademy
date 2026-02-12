@@ -1,0 +1,140 @@
+{
+  "navigation": {
+    "register": "Register",
+    "about": "About",
+    "programs": "Programs",
+    "stories": "Stories",
+    "faq": "FAQ",
+    "contact": "Contact Us",
+    "language": "Language",
+    "register_now": "Register Now"
+  },
+
+  "academy": {
+    "title": "Apple Developer Academy",
+    "subtitle": "Empowering women developers and entrepreneurs in Saudi Arabia and the region to achieve financial growth in the iOS app economy.",
+    "section_title": "Apple Developer Academy",
+    "description": "With the growing global demand for app development and the central role of technology in Saudi Vision 2030, a remarkable partnership was formed between two entities committed to providing exceptional opportunities that inspire a new generation of women in technology.\nIn 2021, Apple and Tuwaiq Academy launched the first Apple Developer Academy in the Middle East and North Africa — the only academy in the world exclusively for women.\nThe academy aims to build a thriving ecosystem of technology leaders and entrepreneurs capable of leveraging innovation and technology to create a sustainable and prosperous future for local and global communities."
+  },
+
+  "global": {
+    "section_title": "A Global Look at Apple Developer Academies",
+
+    "apps": {
+      "count": "1,500+",
+      "label": "Apps",
+      "description": "Apps created on the App Store by Apple Developer Academy graduates"
+    },
+
+    "companies": {
+      "count": "160+",
+      "label": "Companies",
+      "description": "New companies founded by Apple Developer Academy graduates"
+    },
+
+    "nationalities": {
+      "count": "51",
+      "label": "Nationalities",
+      "description": "Nationalities represented among Apple Developer Academy graduates"
+    }
+  },
+
+  "programs": {
+    "title": "Programs",
+
+    "ai_foundation": {
+      "title": "AI Foundation",
+      "duration": "5-week program",
+      "seats": "66 seats (Male, Female)",
+      "status": "Closed",
+      "description": "The AI Foundation Program is a 5-week learning journey designed for learners who want to explore how artificial intelligence can be used in app development."
+    },
+
+    "gaming_foundation": {
+      "title": "Gaming Foundation",
+      "duration": "6-week program",
+      "seats": "40 seats (Male, Female)",
+      "status": "Closed",
+      "description": "The Apple Gaming Foundation Program is a 6-week program designed for learners who have a passion for game programming and development."
+    },
+
+    "foundation": {
+      "title": "Foundation Program",
+      "duration": "4-week program",
+      "seats": "35 seats per month",
+      "status": "Closed",
+      "description": "The Apple Foundation Program is a 4-week program designed for learners curious about what it means to be a developer."
+    },
+
+    "academy_program": {
+      "title": "The Academy",
+      "duration": "9-month program",
+      "seats": "200 seats per year",
+      "status": "Closed",
+      "description": "The Apple Developer Academy is a 9-month program. Learners use the Apple ecosystem to learn coding, design fundamentals, artificial intelligence, marketing, and professional skills."
+    },
+
+    "second_year": {
+      "title": "Second Year",
+      "duration": "6-month program",
+      "seats": "25 seats per year",
+      "status": "Exclusive to First-Year",
+      "description": "The Second Year Program is a 6-month program designed for first-year graduates to empower them through industry-aligned skills development."
+    }
+  },
+
+  "stories": {
+    "title": "Stories",
+    "quote": "I hope that one day I can empower Saudi women.",
+    "body": "I believe that software development is a remarkable field where women can truly excel. Women have consistently demonstrated strong analytical thinking and exceptional attention to detail. Software development has opened new horizons and opportunities in my career, and these skills extend far beyond the technology sector.\n\nCommunication skills and emotional intelligence are fundamental pillars of success in this field. One of the most valuable lessons I learned during my journey is that clear communication is the key to accurate, error-free outcomes.\n\nI hope that one day I can empower Saudi women and contribute to Saudi Vision 2030, which highlights the vital leadership role of women in society."
+  },
+
+  "learners": {
+    "title": "Our Learners’ Applications",
+    "description": "...",
+    "utilities": "Utilities",
+    "cta": "Download",
+
+    "apps": {
+      "Astute SA": "Astute SA",
+      "MyColors!": "MyColors!",
+      "HummingBirdPro": "HummingBirdPro",
+      "Countdown": "Countdown",
+      "Hue Hunter": "Hue Hunter",
+      "BestBefore": "BestBefore"
+    }
+  },
+
+  "community": {
+    "title": "Our Global Community",
+    "countries": {
+      "brazil": {
+        "name": "Brazil",
+        "description": "Part of our global community."
+      },
+      "italy": {
+        "name": "Italy",
+        "description": "Part of our global community."
+      },
+      "indonesia": {
+        "name": "Indonesia",
+        "description": "Part of our global community."
+      }
+    },
+    "description": "Part of our global community."
+  },
+
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "q1": "What is the Developer Academy?",
+    "a1": "The Developer Academy is a learning platform that offers specialized technology programs and courses designed to help learners acquire development skills and build professional career paths.",
+    "q2": "How can I register for a program?",
+    "a2": "You can register by creating an account on the platform, browsing available programs, selecting your desired program, and clicking the register button.",
+    "q3": "Are there prerequisites for programs?",
+    "a3": "Some programs may require prior knowledge or skills, which are clearly outlined in the program details. Beginner-friendly programs are also available."
+  },
+
+  "footer": {
+    "address": "Apple Developer Academy, Building 331, Airport Road, Princess Nourah bint Abdulrahman University, Riyadh"
+  }
+}

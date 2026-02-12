@@ -1,0 +1,11 @@
+@import "tailwindcss"; 
+
+body {
+  font-family: 'IBMPlexSansArabic-Bold', sans-serif;
+  scroll-behavior: smooth;
+  overflow-y: auto !important;
+  overflow-x: hidden !important;
+  background-color: #fcfcfc;
+  min-height: 100vh;
+}
+
